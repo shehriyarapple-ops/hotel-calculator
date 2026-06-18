@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Buildozer / Android build output
+.buildozer/
+bin/
+
+# App data (your saved buttons & history - keep local only)
+hotel_calc_data/
